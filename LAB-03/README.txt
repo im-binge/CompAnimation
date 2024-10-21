@@ -1,6 +1,6 @@
 STUDENT NAME: Johann Ake
 SUBMISSION DATE: 2024-10-21
-LAB 03: Simple Navigation
+LAB 03: 
 
 ATTESTATION:
 I, Johann Ake, understand that I am bound by Ontario Tech’s Academic Integrity Policy
@@ -13,4 +13,4 @@ other academic offences.
 I, Johann Ake, understand that a lack of familiarity with these regulations on academic conduct does
 not constitute a defense against its application.
 
-I, Johann Ake, attest that I have completed the LAB 01: Getting to Know the Unity Timeline requirements on my own and the work submitted is my own original work.
+I, Johann Ake, attest that I have completed the LAB 02: Simple Navigation requirements on my own and the work submitted is my own original work.
